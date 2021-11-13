@@ -19,7 +19,7 @@ The following images show the usage
   ![](./img/notetaker(2).png)
 
 # License
-Copyright (c) 2012-2021 Scott Chacon and others
+Copyright (c) 2021 Liam Rumgay
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
