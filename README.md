@@ -1,13 +1,11 @@
-# Note_Taker_HW
+# Note Taker
 
 ## Table of Contents
--Title
--Description
--Installation
--Usage
--License
-
-# Note Taker
+- [#title](Title)
+-[#description](Description)
+-[#installation](Installation)
+-[#usage](Usage)
+-[#license](License)
 
 # Description
 Note Taker, is a small application to show the usage of an Express.js back end. Note Taker allows the user to write down notes, and save the notes.
